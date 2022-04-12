@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/popular"
+        android:icon="@drawable/ic_baseline_local_fire_department_24"
+        android:title="Popular"/>
+    <item
+        android:id="@+id/top_rated"
+        android:icon="@drawable/ic_baseline_timeline_24"
+        android:title="Top Rated"/>
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Settings"/>
+
+</menu>
